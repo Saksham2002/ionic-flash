@@ -1,0 +1,8 @@
+{
+  "name": "Ionic Flash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5c8279b8"
+}
